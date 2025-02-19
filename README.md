@@ -156,7 +156,4 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use i
 
 ---
 
-## 📧 Contact
-
-💌 **Support & Questions**: support@businessmakeover.co.uk
 
